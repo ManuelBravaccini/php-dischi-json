@@ -1,0 +1,22 @@
+header {
+    height: 70px;
+    background-color: #06121f;
+}
+
+main {
+    height: calc(100vh - 70px);
+    background-color: #1c2c3d;
+}
+
+section.logo img {
+    height: 50px;
+}
+
+.discs {
+    text-align: center;
+    color: white;
+}
+
+.disc {
+    background-color: #111f30;
+}
